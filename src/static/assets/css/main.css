@@ -1804,7 +1804,6 @@ input, select, textarea {
 		display: flex;
 		justify-content: flex-start;
 		text-align: center;
-		margin: 2px
 	}
 
 	div.company h3 {
@@ -1814,7 +1813,6 @@ input, select, textarea {
 	img.companyLogo {
 		height: 48px;
 		width: 48px;
-		margin: 0 0 0 1em;
 	}
 
 /* Form */

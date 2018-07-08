@@ -22,7 +22,9 @@ const Experience = () => {
                     position={'Senior Associate Apps Developer'}
                     date={'Sep 2012 - Oct 2014'}
                 />
-              
+                <p>
+                Build and design application from the ground up. Involved in creating user requests and translate to software requirements. Currently building a suite of applications to manage, design and plan EOG's equipment management system. 
+                </p>  
             </div>
             <div>
                 <Company image={EM} name={'Erdos Miller'} />
