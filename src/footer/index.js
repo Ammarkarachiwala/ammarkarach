@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Footer = ({}) => {
+const Footer = () => {
     return <footer id='footer' >
             <div class="inner">
 				<ul class="icons">

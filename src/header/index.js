@@ -2,7 +2,7 @@ import React from 'react';
 import Inner from '../inner';
 import Footer from '../footer';
 
-const Header = ({}) => {
+const Header = () => {
     return <header id='header' >
         <Inner />
         <Footer />
