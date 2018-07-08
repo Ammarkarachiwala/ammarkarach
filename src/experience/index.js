@@ -28,6 +28,10 @@ const Experience = () => {
             </div>
             <div>
                 <Company image={EM} name={'Erdos Miller'} />
+                <Position
+                    position={'Developer'}
+                    date={'Dec 2011 - Sep 2012'}
+                />
             </div>
         </header>
     </section>
