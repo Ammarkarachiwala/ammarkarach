@@ -1793,6 +1793,12 @@ input, select, textarea {
 	header.major h2 {
 		font-size: 2em;
 	}
+	div.date {
+		display: flex;
+		width: 100%;
+		justify-content: space-between;
+		
+	}
 
 /* Form */
 
@@ -3105,6 +3111,11 @@ input, select, textarea {
 
 			header.major h2 {
 				font-size: 1.35em;
+			}
+
+			header.date {
+				display: flex;
+				justify-content: space-between
 			}
 
 		/* List */
