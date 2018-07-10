@@ -197,6 +197,9 @@ input, select, textarea {
 		hr.major {
 			margin: 3em 0;
 		}
+		hr.minor {
+			margin: 2em 4em;
+		}
 
 	blockquote {
 		border-left: solid 6px #efefef;
@@ -3127,6 +3130,10 @@ input, select, textarea {
 
 			header.major h2 {
 				font-size: 1.35em;
+			}
+
+			header.major hr{
+				margin: 4em 2em;
 			}
 
 		/* List */

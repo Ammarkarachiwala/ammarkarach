@@ -26,12 +26,16 @@ const Experience = () => {
                 Build and design application from the ground up. Involved in creating user requests and translate to software requirements. Currently building a suite of applications to manage, design and plan EOG's equipment management system. 
                 </p>  
             </div>
+            <hr className='minor' />
             <div>
                 <Company image={EM} name={'Erdos Miller'} />
                 <Position
                     position={'Developer'}
                     date={'Dec 2011 - Sep 2012'}
                 />
+                <p>
+                    Maintained and enhanced
+                </p>
             </div>
         </header>
     </section>
