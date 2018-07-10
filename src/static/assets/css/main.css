@@ -1797,7 +1797,9 @@ input, select, textarea {
 		display: flex;
 		width: 100%;
 		justify-content: space-between;
-		margin: 0 2em 0 1em;
+		align-items: flex-start;
+		padding: 0 2em;
+		
 	}
 
 	div.company {
@@ -3125,11 +3127,6 @@ input, select, textarea {
 
 			header.major h2 {
 				font-size: 1.35em;
-			}
-
-			header.date {
-				display: flex;
-				justify-content: space-between
 			}
 
 		/* List */
