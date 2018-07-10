@@ -1,12 +1,13 @@
 {
-  "main.css": "static/css/main.4f96a8f0.css",
-  "main.css.map": "static/css/main.4f96a8f0.css.map",
-  "main.js": "static/js/main.840f4b63.js",
-  "main.js.map": "static/js/main.840f4b63.js.map",
+  "main.css": "static/css/main.dc7014be.css",
+  "main.css.map": "static/css/main.dc7014be.css.map",
+  "main.js": "static/js/main.ada1b7de.js",
+  "main.js.map": "static/js/main.ada1b7de.js.map",
   "static/media/avatar.jpg": "static/media/avatar.72d5bb5e.jpg",
   "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
   "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/mu.png": "static/media/mu.c34bef78.png"
 }
