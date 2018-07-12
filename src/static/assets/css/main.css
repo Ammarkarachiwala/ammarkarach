@@ -1805,6 +1805,10 @@ input, select, textarea {
 		
 	}
 
+	div.date span {
+		font-style: italic
+	}
+
 	div.company {
 		display: flex;
 		justify-content: flex-start;

@@ -11,16 +11,20 @@ const Experience = () => {
             <div >
                 <Company image={EOG} name={'EOG Resources'} />
                 <Position
-                    position={'Senior Software Engineer'}
-                    date={'Aug 2015 - present'}
+                    position={'Sr. Software Engineer'}
+                    date={'Aug 2017'}
                 />
                 <Position
-                    position={'Application Developer'}
-                    date={'Nov 2014 - Aug 2015'}
+                    position={'Sr. Apps Developer'}
+                    date={'Aug 2015'}
                 />
                 <Position
-                    position={'Senior Associate Apps Developer'}
-                    date={'Sep 2012 - Oct 2014'}
+                    position={'Apps Developer'}
+                    date={'Nov 2014'}
+                />
+                <Position
+                    position={'Sr. Asso. Apps Developer'}
+                    date={'Sep 2012'}
                 />
                 <p>
                 Build and design applications from the ground up. 
@@ -33,7 +37,7 @@ const Experience = () => {
                 <Company image={EM} name={'Erdos Miller'} />
                 <Position
                     position={'Developer'}
-                    date={'Dec 2011 - Sep 2012'}
+                    date={'Dec 2011'}
                 />
                 <p>
                    Maintained and enhanced micro controller code on Measurement While Drilling devices. 

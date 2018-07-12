@@ -3,7 +3,7 @@ import React from 'react';
 
 const Position = ({position, date}) => {
     return <div className='date' >
-    <h4>{position}</h4>
+    <span>{position}</span>
     <span>{date}</span>
 </div>
 }
