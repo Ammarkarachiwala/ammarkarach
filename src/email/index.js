@@ -6,8 +6,6 @@ const messages = [
     'anything-works',
     'almost-anything',
     "not-this-!@#5['",
-    'well',
-    'ok',
     'contact',
 ];
 
@@ -54,12 +52,13 @@ export default class extends React.Component {
           idx,
       } = this.state;
       const realEmail = idx === 5 ? 'contact' : messages[idx];
-      return <div>
-            <p> Feel free to email me at: </p>
-            <a href={`mailto:${realEmail}@ammarkarachi.com`}>
+      return <div className='contact' >
+            <i class="icon fa-envelope-o" />
+            <a style={{ marginLeft: '0.3em' }} href={`mailto:${realEmail}@ammarkarachi.com`}>
                 <span>{message}</span>
                 <span>@ammarkarachi.com</span>
               </a>
         </div>
+
     }
 }

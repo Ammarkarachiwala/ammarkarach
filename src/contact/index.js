@@ -9,6 +9,7 @@ const Contact = () => {
             <Email />
             <Tel />
         </header>
+        <hr />
     </section>
 }
 
