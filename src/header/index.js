@@ -8,7 +8,7 @@ export default class Header extends React.Component {
     }
     render(){
         return <header id='header' >
-            <Particle style={{ position: 'absolute', top: '0px', bottom: '0px', left: '0pp', right:'0px' }}  />
+            <Particle style={{ position: 'absolute', top: '0px', bottom: '0px', left: '0pp', right:'0px', pointerEvents: 'none' }}  />
             <Inner />
             <Footer />
         </header>

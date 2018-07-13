@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ResumeButton = () => {
-    return <div style={{ margin: '3em 0' }} > 
+    return <div style={{ margin: '3em 0' }} id='resume' > 
         <ul class="actions">
 	    	<li><a  target='_blank' rel="noopener noreferrer" href="https://drive.google.com/file/d/0B-QbAKXtZDo3UU1UTWpWS3pVSHFRb0VVMmVKV1pkaE9Wc2dB/view?usp=sharing" class="button">Resume</a></li>
 	    	<div></div>

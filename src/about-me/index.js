@@ -1,7 +1,7 @@
 import React from 'react';
 
 const AboutMe = () => {
-    return <section id='one'>
+    return <section id='aboutme'>
         <header className='major' >
             <h2>About Me</h2>
             <p>

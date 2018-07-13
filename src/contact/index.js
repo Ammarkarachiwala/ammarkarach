@@ -3,7 +3,7 @@ import Email from '../email';
 import Tel from '../telephone';
 
 const Contact = () => {
-    return <section>
+    return <section id='contactme' >
         <header className='major' >
             <h2>Contact</h2>
             <Email />

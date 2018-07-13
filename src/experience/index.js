@@ -5,7 +5,7 @@ import EOG from '../images/eog.png';
 import EM from '../images/em.png';
 
 const Experience = () => {
-    return <section >
+    return <section id='experience' >
         <header className='major' >
             <h2>Experience</h2>
             <div >
