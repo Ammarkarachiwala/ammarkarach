@@ -6,7 +6,7 @@ import EM from '../images/em.png';
 
 const Experience = () => {
     return <section >
-        <header class='major' >
+        <header className='major' >
             <h2>Experience</h2>
             <div >
                 <Company image={EOG} name={'EOG Resources'} />

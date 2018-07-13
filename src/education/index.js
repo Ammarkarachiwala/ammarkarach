@@ -6,7 +6,7 @@ import Position from '../experience/position';
 
 const Education = () => {
     return <section>
-            <header class='major' >
+            <header className='major' >
                 <h2>Education</h2>
                 <div>
                     <Company image={UH} name={'University of Houston'} />
@@ -15,7 +15,7 @@ const Education = () => {
                         date={'2009 - 2011'} 
                      />
                 </div>
-                <hr class="minor" />
+                <hr className="minor" />
                 <div>
                     <Company image={MU} name={'Mumbai University'} />
                     <Position

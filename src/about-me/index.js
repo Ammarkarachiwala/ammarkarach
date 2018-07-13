@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutMe = () => {
     return <section id='one'>
-        <header class='major' >
+        <header className='major' >
             <h2>About Me</h2>
             <p>
                 I love writing simple code for complex problems. I have worked on writing
